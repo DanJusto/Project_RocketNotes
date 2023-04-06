@@ -1,0 +1,6 @@
+[submodule "API_RocketNotes"]
+	path = API_RocketNotes
+	url = https://github.com/DanJusto/API_RocketNotes
+[submodule "RocketNotes"]
+	path = RocketNotes
+	url = https://github.com/DanJusto/RocketNotes_Front
